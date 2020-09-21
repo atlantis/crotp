@@ -1,5 +1,5 @@
-require "base32"
 require "uri"
+require "./crotp/base32"
 require "./crotp/otp"
 require "./crotp/hotp"
 require "./crotp/totp"
